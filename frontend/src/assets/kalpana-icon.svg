@@ -1,0 +1,32 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="250" cy="250" r="230" fill="#1B2B41" stroke="#FFFFFF" stroke-width="12"/>
+  
+  <!-- Planet Detail (Bottom Right) -->
+  <path d="M380 320 A 130 130 0 0 1 475 420 L 475 320 Z" fill="#4A90E2" opacity="0.6" />
+  
+  <!-- Rocket Silhouette (Simplified) -->
+  <g transform="translate(250, 220) rotate(-45)">
+    <!-- Exhaust Flames -->
+    <path d="M-20 60 Q 0 100 20 60" fill="#FF8C00" />
+    <path d="M-10 60 Q 0 80 10 60" fill="#FFD700" />
+    
+    <!-- Rocket Body -->
+    <path d="M-30 50 L 30 50 L 30 -20 Q 30 -60 0 -90 Q -30 -60 -30 -20 Z" fill="#FFFFFF" stroke="#0D1B2A" stroke-width="4"/>
+    <!-- Fins -->
+    <path d="M-30 10 L -50 45 L -30 40 Z" fill="#E0E0E0" stroke="#0D1B2A" stroke-width="3"/>
+    <path d="M30 10 L 50 45 L 30 40 Z" fill="#E0E0E0" stroke="#0D1B2A" stroke-width="3"/>
+    <!-- Window -->
+    <ellipse cx="0" cy="-30" rx="10" ry="15" fill="#2C3E50" stroke="#0D1B2A" stroke-width="2"/>
+  </g>
+
+  <!-- Stars/Moon -->
+  <circle cx="210" cy="120" r="3" fill="white" />
+  <circle cx="280" cy="100" r="2" fill="white" />
+  <circle cx="350" cy="180" r="3" fill="white" />
+
+  <!-- Text Section -->
+  <rect x="100" y="320" width="300" height="100" fill="#1B2B41" />
+  <text x="250" y="360" font-family="Arial, sans-serif" font-weight="bold" font-size="42" fill="white" text-anchor="middle">KALPANA-</text>
+  <text x="250" y="405" font-family="Arial, sans-serif" font-weight="bold" font-size="32" fill="white" text-anchor="middle">AI-Assistant</text>
+</svg>
