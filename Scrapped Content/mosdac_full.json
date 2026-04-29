@@ -1,0 +1,533 @@
+[
+  {
+    "mission_name": "INSAT-3DR",
+    "url": "https://www.mosdac.gov.in/insat-3dr",
+    "main_page_content": "INSAT-3DR is identical to INSAT-3D in terms of Sensors and products. INSAT or the Indian National Satellite System is a series of multipurpose Geo-stationary satellites launched by ISRO to satisfy the telecommunications, broadcasting, meteorology, and search and rescue needs of India. Commissioned in 1983, INSAT is the largest domestic communication system in the Asia Pacific Region. The satellite is monitored and controlled by Master Control Facilities that exist in Hassan and Bhopal. INSAT-3DR is a multipurpose geosynchronous spacecraft with main meteorological payloads (imager and sounder). The main objectives for this mission are to provide an operational, environmental and storm warning system to protect life and property. INSAT3DR is monitoring the earth’s surface, oceanic observations and also provide data dissemination capabilities. It provides Broadcast Satellite Services (BSS) through two S-band transponders. The data acquisition and processing system is established at Space Applications Centre, Bopal Campus, Ahmedabad, India. The processing of INSAT-3DR data is taken place broadly in four steps. Ground receiving system to receive data Data Reception (DR) system to generate raw data (L0) files Data Processing (DP) system to process L0 data and produce L1B data files (Calibrated and Geo located) Product generation and Dissemination system It is positioned at 74 0 East Longitude. हिन्दी",
+    "sub_pages": [
+      {
+        "title": "Introduction",
+        "url": "https://www.mosdac.gov.in/insat-3dr-introduction",
+        "content": "I NSAT-3DR is a dedicated meteorological spacecraft designed for enhanced meteorological observations and monitoring of land and ocean surfaces for weather forecasting and disaster warning. INSAT-3DR is configured on I-2K bus with Sounder, Imager and Data Relay Transponder (DRT) and Satellite Aided Search & Rescue (SAS&R) Payloads. INSAT-3DR with a lift of mass of about 2211 kg was flown on September 08, 2016 by GSLV-F05. Communication Payload sub systems are configured to support INSAT system for DRT SAS&R and Meteorological Payload services. The mission goal is stated as \"to provide an operational, environmental & storm warning system to protect life & property and also to monitor earth's surface and carryout oceanic observations and also provide data dissemination capabilities\" The satellite has 3 payloads Meteorological (MET) - IMAGER and SOUNDER Data Relay Transponder (DRT) Satellite Aided Search and Rescue (SAS&R) The geophysical parameters that will be extracted from INSAT-3DR are Outgoing Longwave Radiation (OLR), Quantitative Precipitation Estimation (QPE), Sea Surface Temperature (SST), Snow Cover, Snow Depth, Fire, Smoke, Aerosol, Cloud Motion Vectors (CMV), Water Vapour Winds (WVW), Upper Tropospheric Humidity (UTH), Temperature, Humidity Profile and Total Ozone, Fog, Visible Wind Vectors and other value added parameters from Imager and Sounder.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Objectives",
+        "url": "https://www.mosdac.gov.in/insat-3dr-objectives",
+        "content": "I NSAT or the Indian National Satellite System is a series of multipurpose Geo-stationary satellites launched by ISRO to satisfy the telecommunications, broadcasting, meteorology, and search and rescue needs of India. Commissioned in 1983, INSAT is the largest domestic communication system in the Asia Pacific Region. The satellites also incorporate transponder(s) for receiving distress alert signals for search and rescue missions in the South Asian and Indian Ocean Region, as ISRO is a member of the COSPAR-Sarsat programme. The main objectives for this mission are to provide an operational, environmental and storm warning system to protect life and property. INSAT-3DR will Monitor earth's surface and carryout oceanic observations and also provide data dissemination capabilities, Provide Broadcast Satellite Services (BSS) through two S-band transponders.,",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "SpaceCraft",
+        "url": "https://www.mosdac.gov.in/insat-3dr-spacecraft",
+        "content": "T he INSAT-3DR is a momentum-biased 3-axis stabilized spacecraft using star trackers for precise pointing control. The spacecraft has a launch mass of 2211 kg with a dry mass of 907 kg. It is in Geostationary orbit, altitude of ~35, 786 km, location at 74° East. The three-axis stabilized geostationary satellite carries two meteorological instruments: a six channel Imager and an IR Sounder. Along with the channels in Visible, Middle Infrared, Water Vapor and Thermal Infrared bands, the Imager includes a SWIR channel for wider applications. The Sounder will have eighteen narrow spectral channels in three IR bands in addition to a channel in visible band. It also has a Data Relay Transponder and Satellite based Search & Rescue Payload. Several innovative technologies like on-the-fly correction of scan mirror pointing errors, biannual yaw rotation of the spacecraft, micro-stepping SADA, star sensors and integrated bus management unit have been incorporated to meet the stringent payload requirements like pointing accuracies, thermal management of IR detectors and concurrent operation of both instruments. A passive radiant cooler is used to cool the infrared detectors of imager and sounder instruments. The temperature of the detectors is maintained at 95 K (BOL) and 100 K (EOL). The passive cooler also maintains the sounder filter wheel temperature at 213 K.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Payloads",
+        "url": "https://www.mosdac.gov.in/insat-3dr-payloads",
+        "content": "T he satellite has 3 payloads: Meteorological (MET) - IMAGER and SOUNDER Data Relay Transponder (DRT) Satellite Aided Search and Rescue (SAS&R) Meteorological Payload The INSAT-3DR spacecraft incorporates advanced Imager and Sounder instruments. IMAGER The INSAT-3DR imager provides imaging capability of the earth disc from geostationary altitude in one visible (0.52 - 0.72 micrometers) and five infrared; 1.55 - 1.70(SWIR), 3.80 - 4.00(MIR), 6.50 - 7.00 (water vapour), 10.2 - 11.2 (TIR-1) and 11.5 - 12.5 (TIR-2) bands. The ground resolution at the sub-satellite point is nominally 1km x 1km for visible and SWIR bands, 4km x 4km for one MIR and both TIR bands and 8km x 8km for WV band. T he Imager is an improved design of VHRR-2 (Very High Resolution Radiometer) heritage instrument flown on the Kalpana-1 resolution in the visible band for the monitoring of meso scale phenomena and severe local storms. The two new SWIR and MWIR bands with a resolution of 1 km and 4 km, respectively, will enable better land-cloud discrimination and detection of surface features like snow. One more significant improvement is the split-band TIR channel with two separate windows in 10.2-11.2 and 11.5-12.5 Micrometer regions with a 4 km resolution. This new element enables the extraction of sea surface temperature over the Indian region with a far greater accuracy since the dual-window algorithm can be applied to eliminate the atmospheric attenuation effects. The 1 km resolution of the visible channel and 4 km resolution of the thermal IR channels indirectly improve the accuracy of the derived products like outgoing longwave radiation and cloud motion vectors. The INSAT-3DR Imager payload is a replica of INSAT-3D Imager. Key Parameters of the Imager Telescope aperture 310 mm diameter Number of bands (6) 0.52 - 0.72 µm, VIS (Visible) 1.55 - 1.70 µm, SWIR (Short Wave Infrared) 3.80 - 4.00 µm, MWIR (Mid Wave Infrared) 6.50 - 7.00 µm, WV (Water Vapor) 10.2 - 11.2 µm, TIR-1 (Thermal Infrared) 11.5 - 12.5 µm, TIR-2 (Thermal Infrared) Spatial resolution 1 km for VIS and SWIR 4 km for MWIR 8 km for WV 4 km for TIR-1 and TIR-2 Band separation, band definition Beam splitter, interference filters IFOV (Instantaneous Field of View) 28 µrad for VIS and SWIR (1 km) 112 µrad for MWIR, TIR-1, & TIR-2 (4 km) 224 µrad for WV (8 km) Sampling interval 1.75 samples / IFOV for VIS, SWIR,MIR & TIR-1 / -2 3.5 samples / IFOV for WV Scan step angle Linear in E-W direction (8 µR step size) Line step 224 µrad in N-S direction Scan rate Scan linearity Inflight calibration 200º/s +0.2 s turnaround time 56 µR (peak to peak) Full aperture blackbody and spaceview Scan modes Full, normal and programmable sector for quick repetivity Frame time 25 minutes for normal mode Signal quantization 10 bit/sample Downlink data rate 4.0 Mbit/s SOUNDER The INSAT-3DR sounder has 18 infrared channels distributed over longwave and shortwave bands alongwith one visible band. A visible channel provides synoptic view of the clouds and the earth to aid in generating three dimensional maps of temperature and moisture structure of the atmosphere. T he Sounder is a first time instrument of the geostationary INSAT series designed and developed at ISRO. The overall objective is to measure the temperature and humidity profiles (vertical distributions) to obtain a three-dimensional representation of the atmosphere. The instrument requirements call for soundings at 10 km ground resolution every 3 hours for a full frame scan. This enables the derivation of vertical profiles of temperature and humidity. These vertical profiles can then be used to derive various atmospheric stability indices and other parameters such as atmospheric water vapor content and total column ozone amount. The INSAT-3DR Sounder payload is a replica of INSAT-3D Sounder. Key Parameters of the sounder Telescope aperture 310 mm diameter Number of bands (6) 18 Infrared + 1 Visible Band definition Filter wheel with interference filters IFOV (Instantaneous Field of View) 280 µrad x 280 rad, corresponding to 10 km x 10 km on the surface Sampling interval 280 µrad E-W / N-S No of simultaneous soundings 4 per band Scan step angle 10 km E-W, every 0.1 s, and 40 km N-S after completion of E-W scan, 150 µR rms Step and dwell time 0.1, 0.2 and 0.4 s Turnaround time 0.1 s per scan In-flight calibration Full aperture blackbody and space view Scan modes Options provided to cater to quick dynamic environmental phenomena Frame time 160 minutes for 6000 km x 6000 km area sounding Signal quantization 13 bit/sample Downlink data rate 40 kbit/s Frame time 90 kg, (without cooler), 100 W Spectral parameters and sensitivity of the sounder Band No. Center wavelength µm (cm-1) Bandwidth µm (cm-1) NEDT at 300 K (typical) K 1 14.71 (680) 0.281 (13) 1.5 2 14.37 (696) 0.268 (13) 1 3 14.06 (711) 0.256 (13) 0.5 4 13.96 (733) 0.298 (16) 0.5 5 13.37 (749) 0.286 (16) 0.5 6 12.66 (790) 0.481 (30) 0.3 7 12.02 (832) 0.723 (50) 0.15 8 11.03 (907) 0.608 (50) 0.15 9 9.71 (1030) 0.235 (25) 0.2 10 7.43 (1425) 0.304 (55) 0.2 11 7.02 (1425) 0.394 (80) 0.2 12 6.51 (1535) 0.255 (60) 0.2 13 4.57 (2188) 0.048 (23) 0.2 14 4.52 (2210) 0.047 (23) 0.15 15 4.45 (2245) 0.045 (23) 0.15 16 4.13 (2420) 0.0683 (40) 0.15 17 3.98 (2513) 0.0683 (40) 0.15 18 3.74 (2671) 0.140 (100) 0.15 19 0.695 (14367) 0.05 (1000) (0.67-0.72) 0.1% albedo Communication Payload Communication transponders are required to be configured to provide continuity of some of the INSAT services. A total satellite mass of 2211kg is considered for the launch compatibility, and 70 kg (approximately) of mass apportionment is done for the communication payload components. The communication payload components are - Meteorological Transmitter, Data Relay Transponder, Satellite Aided Search and Rescue (SAS&R) Transponder & S-band Broadcast Satellite Services Transponder.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Data Products",
+        "url": "https://www.mosdac.gov.in/insat-3dr-data-products",
+        "content": "INSAT-3DR Products and their formats are identical to INSAT-3D Products T he main Data Processing System will accept real time data of multiple streams from data acquisition system. The Radiometric calibration as part of data pre-processing is carried out based on the extensive ground calibration data supported by ground and on-board calibration techniques, which tracks changes in the instrument response due to in-orbit thermo-mechanical environment, radiation effects and aging. The geometric correction, re-sampling is performed on the radiometric corrected pixel-data based on static and dynamic models of the instrument and satellite as well as orbit and attitude parameters available simultaneously with the imaging data and produces various levels of data products. A further precision/improved accuracy is necessary which requires in-registering the image-pixels on fixed lat-long grids. It would be achieved through image navigation and registration algorithm in an automatic/interactive approach. The Data Products Software will provide capability for generation of products on the user requested media and in the required format HDF. The various types of products generated by the Data Products System are LEVEL - 0 (Raw) - for internal use and archival LEVEL - 1 (Standard Products) LEVEL - 2 (Geo-Physical Products) LEVEL - 3 (Binned Products) IMAGER DATA PRODUCTS 1. Outgoing Long wave Radiation (OLR) - using TIR -1, TIR -2, WV channels 2. Quantitative Precipitation Estimation (QPE) - using TIR -1, TIR -2, WV channels 3. Sea Surface Temperature (SST) - using SWIR, TIR -1, TIR -2, MIR channels 4. Snow Cover - using VIS, SWIR, TIR -1, TIR –2 channels 5. Fire - using MIR & TIR-1 channels 6. Smoke - using VIS, TIR-1, TIR-2 & MIR channels 7. Aerosol - using VIS, TIR-1 & TIR–2 channels 8. Cloud Motion Vector (CMV) - using VIS, TIR-1 & TIR–2 channels 9. Water Vapour Wind (WVW) - using WV, TIR-1 & TIR–2 channels 10. Upper Tropospheric Humidity (UTH) - using WV, TIR-1 & TIR–2 channels 11. FOG - using SWIR, MIR, TIR-1 & TIR–2 channels SOUNDER DATA PRODUCTS 1. Temperature and Humidity profile - using 19 Sounder Channels 2. Geo-potential Height - using Sounder retrieved temperature and humidity profiles at 40 Pressure levels 3. Layer Precipitable Water - using Retrieved humidity at standard pressure levels 4. Total Precipitable Water - using Retrieved humidity at standard pressure levels 5. Lifted Index - using Sounder retrieved temperature and humidity profiles at standard Pressure levels 6. Dry Microburst Index - using Sounder retrieved temperature and humidity profiles at Standard pressure levels 7. Maximum Vertical Theta-E Differential - using Sounder retrieved temperature and Humidity profiles at standard pressure levels 8. Wind Index - using Geo- potential Height and retrieved temperature and humidity profiles at standard pressure levels 9. Total Ozone",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Documents",
+        "url": "https://www.mosdac.gov.in/insat-3dr-references",
+        "content": "Product Format Compatability with COTS package (Size:796 KB Format:PDF Tool:PDFViewer) ATBD Document (Size:9.8 MB Format:PDF Tool:PDFViewer) Revised ATBD Document for SST (Size:1.4 MB Format:PDF Tool:PDFViewer) Incremental ATBD Document (Size:5.2 MB Format:PDF Tool:PDFViewer) Format Document (Size:903 KB Format:PDF Tool:PDFViewer) Product Catalogue (Size:229 KB Format:PDF Tool:PDFViewer) INSAT Product Version Information (Size:1.61 MB Format: PDF Tool : PDFViewer) ATBD_HEM_rain_revised (Size:2.14 MB Format: PDF Tool : PDFViewer) Revised ATBD for AOD (Size:296KB Format: PDF Tool : PDFViewer)",
+        "document_urls": [
+          "https://www.mosdac.gov.in/docs/INSAT3D_COTS.pdf",
+          "https://www.mosdac.gov.in/docs/INSAT_3D_ATBD_MAY_2015.pdf",
+          "https://www.mosdac.gov.in/docs/ATBD_INSAT-3D_SST_REV_V1.1.pdf",
+          "https://www.mosdac.gov.in/docs/Incremental-ATBD-12Feb2020.pdf",
+          "https://www.mosdac.gov.in/docs/INSAT3D_Products.pdf",
+          "https://www.mosdac.gov.in/docs/V1_INSAT3D_ProductTypes%20and%20ProcessingLevel.pdf",
+          "https://www.mosdac.gov.in/docs/INSAT_Product_Version_information_V01.pdf",
+          "https://www.mosdac.gov.in/docs/HEM_rain-revised-atbd.pdf",
+          "https://www.mosdac.gov.in/docs/INSAT_AOD_ATBD_revised.doc.pdf",
+          "https://www.mosdac.gov.in/docs/STQC.pdf"
+        ],
+        "scraped_documents": []
+      }
+    ],
+    "document_urls": [],
+    "scraped_documents": []
+  },
+  {
+    "mission_name": "INSAT-3DS",
+    "url": "https://www.mosdac.gov.in/insat-3ds",
+    "main_page_content": "INSAT-3DS is identical to INSAT-3D in terms of Sensors and products. INSAT or the Indian National Satellite System is a series of multipurpose Geo-stationary satellites launched by ISRO to satisfy the telecommunications, broadcasting, meteorology, and search and rescue needs of India. Commissioned in 1983, INSAT is the largest domestic communication system in the Asia Pacific Region. The satellite is monitored and controlled by Master Control Facilities that exist in Hassan and Bhopal. INSAT-3DS is a multipurpose geosynchronous spacecraft with main meteorological payloads (imager and sounder). The main objectives for this mission are to provide an operational, environmental and storm warning system to protect life and property. INSAT3S is monitoring the earth’s surface, oceanic observations and also provide data dissemination capabilities. It provides Broadcast Satellite Services (BSS) through two S-band transponders. The data acquisition and processing system is established at Space Applications Centre, Bopal Campus, Ahmedabad, India. The processing of INSAT-3DS data is taken place broadly in four steps. Ground receiving system to receive data Data Reception (DR) system to generate raw data (L0) files Data Processing (DP) system to process L0 data and produce L1B data files (Calibrated and Geo located) Product generation and Dissemination system हिन्दी",
+    "sub_pages": [],
+    "document_urls": [],
+    "scraped_documents": []
+  },
+  {
+    "mission_name": "INSAT-3D",
+    "url": "https://www.mosdac.gov.in/insat-3d",
+    "main_page_content": "INSAT or the Indian National Satellite System is a series of multipurpose Geo-stationary satellites launched by ISRO to satisfy the telecommunications, broadcasting, meteorology, and search and rescue needs of India. Commissioned in 1983, INSAT is the largest domestic communication system in the Asia Pacific Region. The satellite is monitored and controlled by Master Control Facilities that exist in Hassan and Bhopal. INSAT-3D is a multipurpose geosynchronous spacecraft with main meteorological payloads (imager and sounder). The main objectives for this mission are to provide an operational, environmental and storm warning system to protect life and property. INSAT3D is monitoring the earth’s surface, oceanic observations and also provide data dissemination capabilities. It provides Broadcast Satellite Services (BSS) through two S-band transponders. The data acquisition and processing system is established at Space Applications Centre, Bopal Campus, Ahmedabad, India. The processing of INSAT-3D data is taken place broadly in four steps. Ground receiving system to receive data Data Reception (DR) system to generate raw data (L0) files Data Processing (DP) system to process L0 data and produce L1B data files (Calibrated and Geo located) Product generation and Dissemination system हिन्दी",
+    "sub_pages": [
+      {
+        "title": "Introduction",
+        "url": "https://www.mosdac.gov.in/insat-3d-introduction",
+        "content": "I NSAT-3D is a dedicated meteorological spacecraft designed for enhanced meteorological observation and monitoring of land and ocean surfaces of weather forecasting and disaster warning. INSAT-3D is configured on I-2K bus with Sounder, Imager and Data Relay Transponder (DRT) and Satellite Aided Search & Rescue (SAS&R) Payloads. INSAT-3D was flown on July 26, 2013 with a lift of mass of about 2100 kg by ARIANE-5/GSLV-MK II /Soyuz launcher and expected minimum mission life is seven years. Communication Payload sub systems are configured to support INSAT system for DRT SAS&R and Meteorological Payload services. The mission goal is stated as \"to provide an operational, environmental & storm warning system to protect life & property and also to monitor earth's surface and carryout oceanic observations and also provide data dissemination capabilities\" The satellite has 3 payloads Meteorological (MET) - IMAGER and SOUNDER Data Relay Transponder (DRT) Satellite Aided Search and Rescue (SAS&R) The geophysical parameters that will be extracted from INSAT3D are Outgoing Longwave Radiation (OLR), Quantitative Precipitation Estimation (QPE), Sea Surface Temperature (SST), Snow Cover, Snow Depth, Fire, Smoke, Aerosol, Cloud Motion Vector (CMV), Water Vapour Wind (WVW), Upper Tropospheric Humidity (UTH), Temperature, Humidity Profile and Total Ozone, Fog, Visible Wind Vector and other value added parameters from Imager and Sounder.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Objectives",
+        "url": "https://www.mosdac.gov.in/insat-3d-objectives",
+        "content": "I NSAT or the Indian National Satellite System is a series of multipurpose Geo-stationary satellites launched by ISRO to satisfy the telecommunications, broadcasting, meteorology, and search and rescue needs of India. Commissioned in 1983, INSAT is the largest domestic communication system in the Asia Pacific Region. The satellites also incorporate transponder(s) for receiving distress alert signals for search and rescue missions in the South Asian and Indian Ocean Region, as ISRO is a member of the Cospas-Sarsat programme. The main objectives for this mission are to provide an operational, environmental and storm warning system to protect life and property. INSAT3D will Monitor earth's surface and carryout oceanic observations and also provide data dissemination capabilities, Provide Broadcast Satellite Services (BSS) through two S-band transponders.,",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "SpaceCraft",
+        "url": "https://www.mosdac.gov.in/insat-3d-spacecraft",
+        "content": "T he INSAT-3D is a momentum-biased 3-axis stabilized spacecraft using star trackers for precise pointing control. The spacecraft has a launch mass of 2000 kg with a dry mass of 907 kg. The nominal design life is 7.7 years. It is in Geostationary orbit, altitude of ~35, 786 km, location at 82° East. The three-axis stabilized geostationary satellite carries two meteorological instruments: a six channel Imager and an IR Sounder. Along with the channels in Visible, Middle Infrared, Water Vapor and Thermal Infrared bands, the Imager includes a SWIR channel for wider applications. The Sounder will have eighteen narrow spectral channels in three IR bands in addition to a channel in visible band. It also has a Data Relay Transponder and Satellite based Search & Rescue Payload. Several innovative technologies like on-the-fly correction of scan mirror pointing errors, biannual yaw rotation of the spacecraft, micro-stepping SADA, star sensors and integrated bus management unit have been incorporated to meet the stringent payload requirements like pointing accuracies, thermal management of IR detectors and concurrent operation of both instruments. A passive radiant cooler is used to cool the infrared detectors of imager and sounder instruments. The detectors temperature is maintained at 95 K (BOL) and 100 K (EOL). The passive cooler is also to maintain the sounder filter wheel temperature at 213 K.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Payloads",
+        "url": "https://www.mosdac.gov.in/insat-3d-payloads",
+        "content": "T he satellite has 3 payloads: Meteorological (MET) - IMAGER and SOUNDER Data Relay Transponder (DRT) Satellite Aided Search and Rescue (SAS&R) Meteorological Payload The INSAT-3D spacecraft incorporates advanced Imager and Sounder instruments. IMAGER The INSAT-3D imager provides imaging capability of the earth disc from geostationary altitude in one visible (0.52 - 0.72 micrometers) and five infrared; 1.55 - 1.70(SWIR), 3.80 - 4.00(MIR), 6.50 - 7.00 (water vapour), 10.2 - 11.2 (TIR-1) and 11.5 - 12.5 (TIR-2) bands. The ground resolution at the sub-satellite point is nominally 1km x 1km for visible and SWIR bands, 4km x 4km for one MIR and both TIR bands and 8km x 8km for WV band. T he Imager is an improved design of VHRR/2 (Very High Resolution Radiometer) heritage instrument flown on the Kalpana-1 and INSAT-3A missions. The instrument features 6 spectral bands (against the 3 bands in previous versions) offering an improved 1 km resolution in the visible band for the monitoring of meso scale phenomena and severe local storms. The two new SWIR and MWIR bands with a resolution of 1 km and 4 km, respectively, will enable better land-cloud discrimination and detection of surface features like snow. One more significant improvement is the split-band TIR channel with two separate windows in 10.2-11.2 and 11.5-12.5 Micrometer regions with a 4 km resolution. This new element enables the extraction of sea surface temperature over the Indian region with a far greater accuracy since the dual-window algorithm can be applied to eliminate the atmospheric attenuation effects. The 1 km resolution of the visible channel and 4 km resolution of the thermal IR channels indirectly improve the accuracy of the derived products like outgoing longwave radiation and cloud motion vectors. Key Parameters of the Imager Telescope aperture 310 mm diameter Number of bands (6) 0.52 - 0.72 µm, VIS (Visible) 1.55 - 1.70 µm, SWIR (Short Wave Infrared) 3.80 - 4.00 µm, MWIR (Mid Wave Infrared) 6.50 - 7.00 µm, WV (Water Vapor) 10.2 - 11.2 µm, TIR-1 (Thermal Infrared) 11.5 - 12.5 µm, TIR-2 (Thermal Infrared) Spatial resolution 1 km for VIS and SWIR 4 km for MWIR 8 km for WV 4 km for TIR-1 and TIR-2 Band separation, band definition Beam splitter, interference filters IFOV (Instantaneous Field of View) 28 µrad for VIS and SWIR (1 km) 112 µrad for MWIR, TIR-1, & TIR-2 (4 km) 224 µrad for WV (8 km) Sampling interval 1.75 samples / IFOV for VIS, SWIR,MIR & TIR-1 / -2 3.5 samples / IFOV for WV Scan step angle Linear in E-W direction (8 µR step size) Line step 224 µrad in N-S direction Scan rate Scan linearity Inflight calibration 200º/s +0.2 s turnaround time 56 µR (peak to peak) Full aperture blackbody and spaceview Scan modes Full, normal and programmable sector for quick repetivity Frame time 25 minutes for normal mode Signal quantization 10 bit/sample Downlink data rate 4.0 Mbit/s SOUNDER The INSAT-3D sounder has 18 infrared channels distributed over longwave and shortwave bands. A visible channel provides synoptic view of the clouds and the earth to aid in generating three dimensional map of temperature and moisture structure of the atmosphere. T he Sounder is a first time instrument of the geostationary INSAT series designed and developed at ISRO. The overall objective is to measure the temperature and humidity profiles (vertical distributions) to obtain a three-dimensional representation of the atmosphere. The instrument requirements call for soundings at 10 km ground resolution every 3 hours for a full frame scan. This enables the derivation of vertical profiles of temperature and humidity. These vertical profiles can then be used to derive various atmospheric stability indices and other parameters such as atmospheric water vapor content and total column ozone amount. Key Parameters of the sounder Telescope aperture 310 mm diameter Number of bands (6) 18 Infrared + 1 Visible Band definition Filter wheel with interference filters IFOV (Instantaneous Field of View) 280 µrad x 280 rad, corresponding to 10 km x 10 km on the surface Sampling interval 280 µrad E-W / N-S No of simultaneous soundings 4 per band Scan step angle 10 km E-W, every 0.1 s, and 40 km N-S after completion of E-W scan, 150 µR rms Step and dwell time 0.1, 0.2 and 0.4 s Turnaround time 0.1 s per scan In-flight calibration Full aperture blackbody and space view Scan modes Options provided to cater to quick dynamic environmental phenomena Frame time 160 minutes for 6000 km x 6000 km area sounding Signal quantization 13 bit/sample Downlink data rate 40 kbit/s Frame time 90 kg, (without cooler), 100 W Spectral parameters and sensitivity of the sounder Band No. Center wavelength µm (cm-1) Bandwidth µm (cm-1) NEDT at 300 K (typical) K 1 14.71 (680) 0.281 (13) 1.5 2 14.37 (696) 0.268 (13) 1 3 14.06 (711) 0.256 (13) 0.5 4 13.96 (733) 0.298 (16) 0.5 5 13.37 (749) 0.286 (16) 0.5 6 12.66 (790) 0.481 (30) 0.3 7 12.02 (832) 0.723 (50) 0.15 8 11.03 (907) 0.608 (50) 0.15 9 9.71 (1030) 0.235 (25) 0.2 10 7.43 (1425) 0.304 (55) 0.2 11 7.02 (1425) 0.394 (80) 0.2 12 6.51 (1535) 0.255 (60) 0.2 13 4.57 (2188) 0.048 (23) 0.2 14 4.52 (2210) 0.047 (23) 0.15 15 4.45 (2245) 0.045 (23) 0.15 16 4.13 (2420) 0.0683 (40) 0.15 17 3.98 (2513) 0.0683 (40) 0.15 18 3.74 (2671) 0.140 (100) 0.15 19 0.695 (14367) 0.05 (1000) (0.67-0.72) 0.1% albedo Communication Payload Communication transponders are required to be configured to provide continuity of some of the INSAT services. A total satellite mass of 2000kg is considered for the launch compatibility, and 70 kg (approximately) of mass apportionment is done for the communication payload components. The communication payload components are - Meteorological Transmitter, Data Relay Transponder, Satellite Aided Search and Rescue (SAS&R) Transponder & S-band Broadcast Satellite Services Transponder.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Data Products",
+        "url": "https://www.mosdac.gov.in/insat-3d-data-products",
+        "content": "The main Data Processing System will accept real time data of multiple streams from data acquisition system. The Radiometric calibration as part of data pre-processing is carried out based on the extensive ground calibration data supported by ground and on-board calibration techniques, which tracks changes in the instrument response due to in-orbit thermo-mechanical environment, radiation effects and aging. The geometric correction, re-sampling is performed on the radiometric corrected pixel-data based on static and dynamic models of the instrument and satellite as well as orbit and attitude parameters available simultaneously with the imaging data and produces various levels of data products. A further precision/improved accuracy is necessary which requires in-registering the image-pixels on fixed lat-long grids. It would be achieved through image navigation and registration algorithm in an automatic/interactive approach. The Data Products Software will provide capability for generation of products on the user requested media and in the required format HDF. The various types of products generated by the Data Products System are LEVEL - 0 (Raw) - for internal use and archival LEVEL - 1 (Standard Products) LEVEL - 2 (Geo-Physical Products) LEVEL - 3 (Binned Products) IMAGER DATA PRODUCTS 1. Outgoing Long wave Radiation (OLR) - using TIR -1, TIR -2, WV channels 2. Quantitative Precipitation Estimation (QPE) - using TIR -1, TIR -2, WV channels 3. Sea Surface Temperature (SST) - using SWIR, TIR -1, TIR -2, MIR channels 4. Snow Cover - using VIS, SWIR, TIR -1, TIR –2 channels 5. Fire - using MIR & TIR-1 channels 6. Smoke - using VIS, TIR-1, TIR-2 & MIR channels 7. Aerosol - using VIS, TIR-1 & TIR–2 channels 8. Cloud Motion Vector (CMV) - using VIS, TIR-1 & TIR–2 channels 9. Water Vapour Wind (WVW) - using WV, TIR-1 & TIR–2 channels 10. Upper Tropospheric Humidity (UTH) - using WV, TIR-1 & TIR–2 channels 11. FOG - using SWIR, MIR, TIR-1 & TIR–2 channels SOUNDER DATA PRODUCTS 1. Temperature and Humidity profile - using 19 Sounder Channels 2. Geo-potential Height - using Sounder retrieved temperature and humidity profiles at 40 Pressure levels 3. Layer Precipitable Water - using Retrieved humidity at standard pressure levels 4. Total Precipitable Water - using Retrieved humidity at standard pressure levels 5. Lifted Index - using Sounder retrieved temperature and humidity profiles at standard Pressure levels 6. Dry Microburst Index - using Sounder retrieved temperature and humidity profiles at Standard pressure levels 7. Maximum Vertical Theta-E Differential - using Sounder retrieved temperature and Humidity profiles at standard pressure levels 8. Wind Index - using Geo- potential Height and retrieved temperature and humidity profiles at standard pressure levels 9. Total Ozone",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Documents",
+        "url": "https://www.mosdac.gov.in/insat-3d-references",
+        "content": "Product Format Compatability with COTS package (Size:796 KB Format:PDF Tool:PDFViewer) ATBD Document (Size:9.8 MB Format:PDF Tool:PDFViewer) Revised ATBD Document for SST (Size:1.4 MB Format:PDF Tool:PDFViewer) Incremental ATBD Document (Size:5.2 MB Format:PDF Tool:PDFViewer) Format Document (Size:903 KB Format:PDF Tool:PDFViewer) Product Catalogue (Size:229 KB Format:PDF Tool:PDFViewer) INSAT Product Version Information (Size:1.61 MB Format: PDF Tool : PDFViewer) ATBD_HEM_rain_revised (Size:2.14 MB Format: PDF Tool : PDFViewer) Revised ATBD for AOD (Size:296KB Format: PDF Tool : PDFViewer)",
+        "document_urls": [
+          "https://www.mosdac.gov.in/docs/INSAT3D_COTS.pdf",
+          "https://www.mosdac.gov.in/docs/INSAT_3D_ATBD_MAY_2015.pdf",
+          "https://www.mosdac.gov.in/docs/ATBD_INSAT-3D_SST_REV_V1.1.pdf",
+          "https://www.mosdac.gov.in/docs/Incremental-ATBD-12Feb2020.pdf",
+          "https://www.mosdac.gov.in/docs/INSAT3D_Products.pdf",
+          "https://www.mosdac.gov.in/docs/V1_INSAT3D_ProductTypes%20and%20ProcessingLevel.pdf",
+          "https://www.mosdac.gov.in/docs/INSAT_Product_Version_information_V01.pdf",
+          "https://www.mosdac.gov.in/docs/HEM_rain-revised-atbd.pdf",
+          "https://www.mosdac.gov.in/docs/INSAT_AOD_ATBD_revised.doc.pdf",
+          "https://www.mosdac.gov.in/docs/STQC.pdf"
+        ],
+        "scraped_documents": []
+      }
+    ],
+    "document_urls": [],
+    "scraped_documents": []
+  },
+  {
+    "mission_name": "INSAT-3A",
+    "url": "https://www.mosdac.gov.in/insat-3a",
+    "main_page_content": "INSAT-3A is a multipurpose satellite for providing telecommunications, television broadcasting, meteorological and search & rescue services. It carries twenty four transponders - twelve operating in the normal C-band frequency, six in Extended C-band and six in Ku-band. Nine of the twelve normal C-band transponders provide expanded coverage and the remaining three have India coverage beam. All the extended C-band as well as the Ku-band transponders has India coverage beams. INSAT-3A also carries a Ku-band beacon. For meteorological observation, INSAT-3A carries a three channel Very High Resolution Radiometer (VHRR) with 2 km resolution in the visible band and 8 km resolution in thermal infrared and water vapour bands. In addition, INSAT-3A carries a Charge Coupled Device (CCD) camera which operates in the visible and short wave infrared bands providing a spatial resolution of 1 km. A Data Relay Transponder (DRT) operating in UHF band is incorporated for realtime hydro-meteorological data collection from unattended platforms located on land and river basins. The data is then relayed in extended C-band to a central location. INSAT-3A also carries another transponder for Satellite Aided Search and Rescue (SAS & R) as part of India's contribution to the international Satellite Aided Search and Rescue programme. INSAT-3A was launched by European Ariane-5G Launch Vehicle into a Geosynchronous Transfer Orbit (GTO) with a perigee of 200 km and an apogee of 35,980 km. The satellite is maneuvered to its final orbit by firing the satellite's apogee motor. Subsequently, the deployment of solar array, antennae and the solar sail is carried out and the satellite is commissioned after in-orbit checkout. हिन्दी",
+    "sub_pages": [
+      {
+        "title": "Introduction",
+        "url": "https://www.mosdac.gov.in/insat-3a-introduction",
+        "content": "I NSAT-3A, a multipurpose satellite built by ISRO was launched by Ariane in April 2003. It is located at 93.5 degree East longitude. It is third satellite in INSAT-3 series after INSAT-3B & INSAT-3C. It provides communication, weather and search & rescue services.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Objectives",
+        "url": "https://www.mosdac.gov.in/insat-3a-objectives",
+        "content": "T o provide Telecommunications Television broadcasting Meteorological Search and Rescue services",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "SpaceCraft",
+        "url": "https://www.mosdac.gov.in/insat-3a-spacecraft",
+        "content": "S atellite details Acronym INSAT-3A Full name Indian National Satellite - 3A Satellite Description 4th flight unit of the INSAT-3 series. Missions: operational meteorology and telecommunication Mass at launch 2950 kg Dry mass/td> 1348 kg Power 3100 W Orbit Geostationary orbit Altitude 35786 km Longitude 93.5° E Status Operational Details on Status (as available) Nominal operations. Launch 2003-04-10 EOL >2015",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Payloads",
+        "url": "https://www.mosdac.gov.in/insat-3a-payloads",
+        "content": "Communication Payload 1 2 Normal C-band transponders (9 channels provide expanded coverage from Middle East to South East Asia with an EIRP of 38 dBW, 3 channels provide India coverage with an EIRP of 36 dBW and 6 Extended C-band transponders provide India coverage with an EIRP of 36 dBW). 6 upper extended C-band transponders having India beam coverage providing an EoC-EIRP of 37 dBW. 6 Ku-band transponders provide India coverage with EIRP of 48 dBW. Meteorological Payload A Very High Resolution Radiometer (VHRR) with imaging capacity in the visible (0.55-0.75 μm), thermal infrared (10.5-12.5 μm) and Water Vapour (5.7-7.1 μm) channels, provide 2x2 km, 8x8 km and 8x8 km ground resolutions respectively. A CCD camera provides 1x1 km ground resolution, in the visible (0.63-0.69 μm), near infrared (0.77-0.86 μm) and shortwave infrared (1.55-1.70 μm) bands. A Data Relay Transponder (DRT) having global receive coverage with a 400 MHz uplink and 4500 MHz downlink for relay of meteorological, hydrological and oceanographic data from unattended land and ocean-based automatic data collection-cum-transmission platforms. A Satellite Aided Search and Rescue (SAS&R) SARP payload having global receive coverage with 406 MHz uplink and 4500 MHz downlink with India coverage, for relay of signals from distress beacons in sea, air or land.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Data Products",
+        "url": "https://www.mosdac.gov.in/insat-3a-data-products",
+        "content": "DATA PRODUCTS Products from CCD 3A-CCD-COMPOSITE-NDV 10 day composite, normalized difference vegetation index 3A-CCD-NDV Normalized difference vegetation index 3A-CCD-L1 Level1B data of all channels - Vis, SWIR & NIR 3A-CCD-AOD Aerosol Optical Depth over Ocean 3A-CCD-GPS Co-registered Level1B data for all 3 bands data Products from VHRR 3A VHRR L1B Indian Sector - all 3 channels, VIS, IR and WV 3A VHR L1 - every acquisition of 3AVHRR data",
+        "document_urls": [],
+        "scraped_documents": []
+      }
+    ],
+    "document_urls": [],
+    "scraped_documents": []
+  },
+  {
+    "mission_name": "KALPANA-1",
+    "url": "https://www.mosdac.gov.in/kalpana-1",
+    "main_page_content": "Metsat is an exclusive meteorological satellite of ISRO in geo-synchronous orbit. This satellite is developed out of a small I-1000 bus made of carbon fibre re-enforced plastic light weight structure, a uni power bus employing an 18AH Ni-Cd battery and a single GaAs/Ge solar panel generating 640 watts of power. Metsat uses a 3-axis stabilized momentum biased attitude control system with suitable linearly controlled magnetic torquers for solar radiation pressure compensation. A unified propulsion system of bi-propellant apogee motor of 440 Newtons and the reaction control engines of 22 Newtons has been selected for efficient and versatile mission management. Metsat carries on-board a Very High ResolutionRadiometer (VHRR) and a Data Relay Transponder (DRT) for weather data transmission. VHRR provides earth imageries in visible band with a resolution of2 km, in thermal infrared and water vapor bands with 8 km. DRT collects weather data from un-attended data collection platforms located throughout India and transmits the same to centrally located Meteorological Data Utilisation Centre. The satellite dry mass is about 495 kg. Metsat was launched on- board upgraded and modified satellite launch vehicle (PSLV) with a lift–off mass of 1060 kgs in September 2002. After successful launch and early orbit operations and in orbit characterization of the Payload, the satellite has been commissioned for routine usage of weather data and imageries. हिन्दी",
+    "sub_pages": [
+      {
+        "title": "Introduction",
+        "url": "https://www.mosdac.gov.in/kalpana-1-introduction",
+        "content": "K alpana-1 is the first dedicated meteorological satellite launched by Indian Space Research Organisation using Polar Satellite Launch Vehicle on 2002-09-12. This was the first satellite launched by the PSLV into the Geo-stationary orbit. The satellite was originally known as MetSat-1. On February 5, 2003 it was renamed to Kalpana-1 by the Indian Prime Minister Atal Bihari Vajpayee in memory of Kalpana Chawla?a NASA astronaut who perished in the Space Shuttle Columbia disaster. The satellite features a Very High Resolution scanning Radiometer (VHRR), for three-band images and a Data Relay Transponder (DRT) payload. So far, meteorological services had been combined with telecommunication and television services in the INSAT series. MetSat-1 is a precursor to the future INSAT system that will have separate satellites for meteorology and telecommunication & broadcasting services.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Objectives",
+        "url": "https://www.mosdac.gov.in/kalpana-1-objectives",
+        "content": "M ajor Metsat/Kalpana mission objectives are:- To establish a small satellite I-1000 bus system which can meet the exclusive service requirements of a meteorological payload for earth imageries Collection of weather data from low cost unattended data collection platforms-to configure Metsat spacecraft within the lift-off mass constraints of upgraded existing polar satellite launch vehicle for deployment in geo-synchronous transfer orbit (GTO) mission.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "SpaceCraft",
+        "url": "https://www.mosdac.gov.in/kalpana-1-spacecraft",
+        "content": "T he MetSat-1 spacecraft was developed by ISAC (ISRO Satellite Center), Bangalore. MetSat has been designed using a new spacecraft bus (I-1000 bus) employing lightweight structural elements like CFRP (Carbon Fibre Reinforced Plastic). A central structural thrust cylinder provides mounting interfaces propellant tanks, pressurant tank, equipment panels, payload, solar array assembly, and with the launch vehicle. Structural brackets are provided to mount momentum wheels, reaction wheel, RCS (Reaction Control System) thrusters, earth sensors, sun sensors, LAM (Liquid Apogee Motor), and propulsion components. MetSat-1 is three-axis stabilized (momentum biased control subsystem). However, unlike its INSAT predecessors, the MetSat-1 spacecraft does not feature a sail/boom design. The attitude is sensed by suite of sensors (gyros, Earth sensors, digital sun sensor, coarse analog sun sensors, and solar panel sun sensor). Magnetic torquers serve as actuators to unload the momentum of the wheels. In addition, active thrusters are used (one 440N LAM for orbit raising maneuvers and eight 22 N thrusters for orbit and attitude control). The propulsion system employed is a unified bi-propellant with mono-methyl hydrazine (MMH) as fuel and mixed oxides of nitrogen (MON3) as oxidizer. The S/C employs passive thermal control system by utilizing multi-layer insulation blankets, optical solar reflectors, heat sinks, paints, thermal grease, thermal shields etc. The temperature of individual subsystems spread over the satellite is maintained by a bank of 112 heaters. EPS (Electrical Power Subsystem): Electrical power of 550 W is generated by a single panel solar array of 2.15 m x 1.85 m using GaAS solar cells. The solar panel features a drive mechanism to point it into the sun. A single NiCd battery (18 Ah capacity) provides power for eclipse phases. The SADA (Solar Array Driver Assembly) slip rings and drive mechanism are modified to meet the power transfer and drive requirements, it is mass-optimized. The spacecraft has a launch mass of 1055 kg including 560 kg of propellant (495 kg S/C dry mass). MetSat-1 has a design life of 7 years with an operational goal of 10 years.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Payloads",
+        "url": "https://www.mosdac.gov.in/kalpana-1-payloads",
+        "content": "VHRR V HRR/2 is a modified version of the VHRR heritage imagers flown on INSAT-2A, -2B, and -2E. The VHRR observes in VIS, water vapor and TIR bands providing a spatial resolution of 2 km in VIS band and 8 km for the rest. VHRR was developed by SAC (Satellite Application Center), Ahmedabad, India. The instrument operates in three scanning modes: Full frame mode (20° North-South x 20° East-West), minimum in about 33 minutes covering the entire Earth disk Normal frame mode (14° N-S x 20° E-W), minimum in about 23 minutes Sector frame mode in which the sector can be positioned anywhere in steps of 0.5° in the N-S direction to cover 4.5° N-S x 20° E-W. This mode is particularly suited for rapid, repetitive coverage during severe weather conditions like a cyclone. The nominal frame repetition rates are: 40, 30 and 20 minutes respectively. VHRR is an opto-mechanical system (whiskbroom type imager). The incoming solar radiation is reflected onto a Ritchey-Chretien telescope of 20 cm aperture by a beryllium scan mirror mounted at 45° to the optical axis. The optical system includes a gold-film dichoric beam-splitter that transmits visible light energy and reflects WV/TIR energy, so that the radiation from the Earth is channelized to the visible and IR focal planes simultaneously. The visible band detector configuration consists of two staggered arrays of four silicon photodiodes each; while two sets of mercury-cadmium telluride (MCT) detector elements operating nominally at 100-110 K sense the WV/thermal radiation. The scan mirror is mounted on a two-axis, gimballed scan mechanism system to generate a 2-D image by sweeping the detector instantaneous field of view (FOV) across the Earth's surface in east to west (fast scan) and north to south (slow scan). Imaging modes of the VHRR instrument Imaging mode Coverage Repeatability Full scan 20° N-S and 20° E-W 33 min Normal scan 14° N-S and 20° E-W 23 min Sector scan 4.5° N-S and 20° E-W 23 (3 times) Imaging modes of the VHRR instruments Channel No of detectors MTF (Modulation Transfer Function) Dynamic range Noise performance VIS 4 +4 redundant > 0.23 approx. 0-100% albedo 6 : 1 min at 2.5% albedo Water Vapor (WV) 1 + 1 redundant > 0.21 approx. 4-340 K 0.25 K at 300 K TIR 1 + 1 redundant > 0.21 approx. 4-320 K 0.5 K at 300 K Schematic illustration of the VHRR instrument VHRR Instrument Spectral band: VIS Spectral band: TIR Spectral band: MWIR (Water vapor) 0.55 - 0.75 µm; Integrated out-of-band response <3% Inter detector mismatch < 5% 10.5 - 12.5 µm; Integrated out-of-band response <3% Out-of-band response peak < 0.1% 5.7 - 7.1 µm Spatial resolution VIS Spatial resolution TIR and MWIR 56 µrad (or 2 km x 2 km) 224 µrad (or 8 km x 8 km) Radiometric performance: SNR Radiometric performance: NEDT > 6 for VIS at 2.5% albedo < 0.25 K at 300 K for IR channel Dynamic range of TIR/MWIR channels Dynamic range of VIS channel 4-340 K 0-100% Misregistration between VIS and IR <56 µrad Modulation Transfer Function (MTF) > 21% for IR and TIR; >23% for VIS channel DRT (Data Relay Transponder) The DRT (Data Relay Transponder) is part of a DCS (Data Collection System) of ISRO. The objective is to collect data from unattended meteorological platforms in the ground segment. DRT receives receives signals from unattended weather data collection platforms and retransmits them to the central station. The data from these payloads are being used for comprehensive weather status and forecasting. RF communication of DRT: Uplink frequency = 402.75 MHz; downlink frequency = 4506.05 MHz; bandwidth =± 100 kHz; EIRP = 21 dBW (min). Note: MetSat-1 does not carry SAS&R (Satellite Aided Search and Rescue) system. In the INSAT-2 series, the INSAT-2A and -2B satellites carried SAS&R transponders as well as DRTs (Data Relay Transponders). According to ISRO information, INSAT-3A (launch April 9, 2003) and INSAT-3D (to be launched subsequently), will carry SAS&R and DRT payloads.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Data Products",
+        "url": "https://www.mosdac.gov.in/kalpana-1-data-products",
+        "content": "DATA PRODUCTS Short Name Long Name K1-VHR-OLR Outgoing Longwave Radiation derived from IR & WV channels K1-VHR-WVWV Water Vapour Winds derived from WV channel K1-VHR-CMV Cloud Motion vector derived from IR channel K1-VHR-DAILYSST Daily Sea Surface Temperature derived from IR channel K1-VHR-DAILYOLR Daily Outgoing Longwave Radiation derived from IR & WV channels K1-VHR-L1-INDIAN SECTOR Level1B data for Indian sector for all 3 channels, Water Vapour, Infra Red and Visible K1-VHR-UTH Upper Tropospheric Humidity derived from IR channel K1-VHR-QPE Quantitative Precipitation Estimation based on GPI algorithm and derived using IR channel K1-VHR-SST Sea Surface Temperature derived from IR channel K1-VHR-DAILYQPE Daily Quantitative Precipitation Estimation based on GPI algorithm & derived using IR channel K1-VHR-L1 K1-VHR-AMV Cloud Motion Vector and Water Vapour Winds K1-VHR-BRT IR Brightness Temperature K1-VHR-BTW Water Vapour Brightness Temperature K1-VHR-CMK Cloud Mask derived using IR channel data K1-VHR-SGP K1-VHR-IMR INSAT multi channel rain K1-VHR-SGP-CMV Cloud Motion Vector K1-VHR-SGP-WVWV Water Vapour K1-VHR-LST Land Surface Temperature K1-VHR-DAILYINS Daily Insolation K1-VHR-INS Insolation",
+        "document_urls": [],
+        "scraped_documents": []
+      }
+    ],
+    "document_urls": [],
+    "scraped_documents": []
+  },
+  {
+    "mission_name": "OCEANSAT-2",
+    "url": "https://www.mosdac.gov.in/oceansat-2",
+    "main_page_content": "Oceansat-2 satellite mainframe systems derive their heritage from previous IRS missions. Oceansat-2 was launched by PSLV-C14 from Satish Dhawan Space Centre, Sriharikota on Sept. 23, 2009. It carries three payloads: Ocean Colour Monitor (OCM) Ku-band Pencil Beam scatterometer (SCAT) developed by ISRO Radio Occultation Sounder for Atmosphere (ROSA) developed by the Italian Space Agency. Oceansat-2 is envisaged to provide continuity of operational services of Oceansat-1(IRS-P4) with enhanced application potential. हिन्दी",
+    "sub_pages": [
+      {
+        "title": "Introduction",
+        "url": "https://www.mosdac.gov.in/oceansat-2-introduction",
+        "content": "I ndia's Polar Satellite Launch Vehicle, PSLV-C14, in its 16th Mission launched 958 kg Oceansat-2 and six nano-satellites into a 720 km. intended Sun Synchronous Polar Orbit (SSPO) on September 23, 2009. OCEANSAT-2 mission is an evolution of the OCEANSAT-1. IRS-P4 (OCEANSAT-I), launched in 1999, is a dedicated satellite for Ocean applications and carries two Payloads: Ocean Color Monitor (OCM) and Multi-frequency Scanning Microwave Radiometer (MSMR). Out of these two, OCM is providing valuable data which is used for various applications both within India and by International users. The most significant application areas are identification of Potential Fishery Zones (PFZ) using OCM data & prediction of Monsoon arrival using MSMR data. Experience from OCM data consisted into algorithms developed for atmospheric correction of the data and retrieval of parameters like Chlorophyll concentration, total suspended matter (TSM), estimation of primary productivity, detection of algal blooms. OCEANSAT-2 provides same operational services as OCEANSAT-1 while adding new ones like atmospheric vertical profiles of temperature, pressure and humidity, wind fields over ocean surface, sea state, Ocean dynamics , and bio-physical parameters. OCEANSAT-2 is equipped with three payloads: OCM, Scatterometer and ROSA. OCM was also present on OCEANSAT-I, Scatterometer and ROSA are new instruments. The OCEANSAT-2 data is received at the ISRO Ground Segment, located in Hyderabad, and also at the ASI Multimission National Centre (CNM) , located in Matera.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Objectives",
+        "url": "https://www.mosdac.gov.in/oceansat-2-objectives",
+        "content": "T he Indian satellite Oceansat-2 is designed to provide service continuity for operational users of the Ocean Colour Monitor (OCM)instrument on Oceansat-1. It will also enhance the potential of applications in other areas. The main objectives of OceanSat-2 are to study surface winds and ocean surface strata, observation of chlorophyll concentrations, monitoring of phytoplankton blooms, study of atmospheric aerosols and suspended sediments in the water. The primary mission objectives of Oceansat-2 are: To design, develop, launch and operate a three axis stabilized spacecraft carrying an Ocean Colour Monitor and Ku-band Scatterometer, To develop / implement algorithms for retrieval of geophysical parameters like wind vector on an operational basis. To promote new applications in the areas of ocean studies including prediction of cyclone trajectory, fisheries, coastal zone mapping etc. Oceansat-2 gathers systematic data for oceanographic, coastal and atmospheric applications. The main objectives of OceanSat-2 are to study surface winds and ocean surface strata, observation of chlorophyll concentrations, monitoring of phytoplankton blooms, study of atmospheric aerosols and suspended sediments in the water. Oceansat-2 carries two payloads for ocean related studies, namely, Ocean Colour Monitor (OCM) and Ku-band Pencil Beam Scatterometer. An additional piggy-back payload called ROSA (Radio Occultation Sounder for Atmospheric studies) developed by the Italian Space Agency (ASI) is also included. The major applications of data from Oceansat-2 are identification of potential fishing zones, sea state forecasting, coastal zone studies and inputs for weather forecasting and climatic studies.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "SpaceCraft",
+        "url": "https://www.mosdac.gov.in/oceansat-2-spacecraft",
+        "content": "O ceansat-2 is envisaged to provide continuity of operational services of Oceansat-1(IRS-P4) with enhanced application potential. Launch date: Sept 23, 2009 Launch site: SHAR, Sriharikota Launch vehicle; PSLV - C14 Orbit: Polar Sun Synchronous Altitude: 720 km Inclination: 98.28° Period: 99.31 minutes Repetitivity: 2 days Payloads: OCM, SCAT and ROSA Local time of Eq. crossing: 12 noon ± 10 minutes Mass at lift off: 960 Kg Power: 15 Sq.m Solar panels generating 1360W, Two 24 Ah Ni-Cd Battries Mission Life: 5 years",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Payloads",
+        "url": "https://www.mosdac.gov.in/oceansat-2-payloads",
+        "content": "T he scientific payload contains three instruments. Two are Indian and one is from the Italian Space Agency. Ocean Colour Monitor (OCM) Scanning Scatterometer (SCAT) Radio Occultation Sounder for Atmospheric Studies (ROSA) Ocean Colour Monitor (OCM) OCM is an 8-band multi-spectral camera operating in the Visible and Near IR spectral range. This camera provides an instantaneous geometric field of view of 360 meter and a swath of 1420 km. OCM can be tilted up to + 20 degree along track. Scanning Scatterometer (SCAT) SCAT is an active microwave device designed and developed at ISRO/SAC, Ahmedabad. It is used to determine ocean surface level wind vectors through estimation of radar backscatter. The scatterometer system has a 1-m parabolic dish antenna and a dual feed assembly to generate two pencil beams and is scanned at a rate of 20.5 rpm to cover the entire swath. The Ku-band pencil beam scatterometer is an active microwave radar operating at 13.515 GHz providing a ground resolution cell of size 50 x 50 km. It consists of a parabolic dish antenna of 1 meter diameter which is offset mounted with a cant angle of about 46 degree with respect to earth viewing axis. This antenna is continuously rotated at 20.5 rpm using a scan mechanism with the scan axis along the +ve Yaw axis. By using two offset feeds at the focal plane of the antenna, two beams are generated which will conically scan the ground surface. The back scattered power in each beam from the ocean surface is measured to derive wind vector. It is an improved version of the one on Oceansat-1. The inner beam makes an incidence angle of 48.90 0 and the outer beam makes an incidence angle of 57.60 0 on the ground. It covers a continuous swath of 1400 km for inner beam and 1840 km for outer beam respectively. The inner and outer beams are configured in horizontal and vertical polarization respectively for both transmit and receive modes. The aim is to provide global ocean coverage and wind vector retrieval with a revisit time of 2 days. Radio Occultation Sounder for Atmospheric Studies (ROSA) ROSA is a new GPS occultation receiver provided by ASI (Italian Space Agency). The objective is to characterize the lower atmosphere and the ionosphere, opening the possibilities for the development of several scientific activities exploiting these new radio occultation data sets.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Data Products",
+        "url": "https://www.mosdac.gov.in/oceansat-2-data-products",
+        "content": "Standard LAC Data Products of OCM Level 1B LAC Radiance Product. Level 1C LAC Geo-referenced (Radiometrically and Geometrically corrected) product Level 2C LAC Geo-metrically corrected geo-physical parameters ChlorophyII mapped product Sediment mapped product Aerosol optical depth at 865 nm Diffused attenuation coefficient (Kd-490 nm) Standard GAC Data Products of OCM Level 1B GAC Strip based/ Scene based Radiance product Level 2B GAC Geometrically Corrected geo-physical parameters ChlorophyII mapped product Sediment mapped product Aerosol optical depth at 865 nm Diffused attenuation coefficient (Kd-490 nm) Level 3 GAC Binned products (approximately 4 km resolution) Weekly Monthly Yearly Scatterometer Standard Data Products Level 2A Sigma naught product in swath grid with 50 km spacing for a given orbit. Level 2B Wind product in swath grid with 50 km spacing for a given orbit Level 3W Global wind product with grid spacing 0.50 Level 3S (HH) Global Sigma naught Product with grid spacing of 0.5 degrees in HH polarisation Level 3S (VV) Global Sigma naught Product with grid spacing of 0.5 degrees inVV polarisation Scatterometer Value Added Data Products O2-SCT-AWV50 12 Hourly Analysed Wind Vector For generating 12 hourly AWV product, OSCAT and Advanced Scatterometer (ASCAT) onboard MetOP-A data have been combined. Along with wind vector and wind stress, other parameters of interest, wind divergence and vertical component of curl of wind stress have also been computed and provided. O2-SCT-DAILYAWV50 Daily Analysed Wind Vector The analysed winds have been generated at 0.5°×0.5° interval over the global oceans. For the generation of these analysed winds products, we have used (Oceansat-2 SCATterometer) OSCAT data for daily Analysed Wind Vector (AWV). O2-SCT-HWV High Spatial Density Wind Vector Higher spatial-density (~15 km) vector winds are being generated using the operational Level-2A and Level-2B data by exploiting the high density backscatter data available within Level-2A and the OSCAT specific Geophysical Model Functions (GMF).",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Documents",
+        "url": "https://www.mosdac.gov.in/oceansat-2-references",
+        "content": "Analysed-Winds (Size:583 KB Format:PDF Tool:PDFViewer) High Spatial density winds (Size:145 KB Format:PDF Tool:PDFViewer) ATBD_SCAT_V1 (Size:1.02 MB Format:PDF Tool:PDFViewer)",
+        "document_urls": [
+          "https://www.mosdac.gov.in/docs/Analysed-Winds.pdf",
+          "https://www.mosdac.gov.in/docs/High_Spatial_density_winds.pdf",
+          "https://www.mosdac.gov.in/docs/ATBD_SCAT_v1_fuldoc2.pdf",
+          "https://www.mosdac.gov.in/docs/STQC.pdf"
+        ],
+        "scraped_documents": []
+      }
+    ],
+    "document_urls": [],
+    "scraped_documents": []
+  },
+  {
+    "mission_name": "OCEANSAT-3",
+    "url": "https://www.mosdac.gov.in/oceansat-3",
+    "main_page_content": "EOS-06(Oceansat-3) also known as Earth Observing Satellite EOS-06(Oceansat-3) , was launched by PSLV-C54 from Satish Dhawan Space Centre, Sriharikota on 26 November 2022. EOS-06(Oceansat-3) is developed to provide a unique opportunity for simultaneously measuring the physical, biological and atmospheric parameters for the first time from three instruments, (i) 13-band advanced Ocean Colour Monitor (OCM-3), (ii) Ku-band Scatterometer (SCAT-3) and (ii) a 2-channel Sea Surface Temperature Monitor (SSTM). ARGOS is the fourth payload provided by French Space Agency (CNES) and serves as a data collection platform from various ocean based platform. EOS-06(Oceansat-3) is envisaged to provide continuity of operational services of Oceansat-1, 2 and SCATSAT-1 Mission with enhanced application potential. हिन्दी",
+    "sub_pages": [
+      {
+        "title": "Introduction",
+        "url": "https://www.mosdac.gov.in/oceansat-3-introduction",
+        "content": "ISRO has launched the EOS-06(Oceansat-3) satellite on 26 Nov 2022 in a polar sun-synchronous orbit at 740km altitude. EOS-06(Oceansat-3) is the third-generation satellite in the Oceansat series. This is to provide continuity services of Oceansat-2 spacecraft with enhanced payload specifications as well as application areas. EOS-06(Oceansat-3) has three main instruments, 13-band advanced Ocean Colour Monitor, Ku-band Scatterometer and a 2-channel Sea Surface Temperature Monitor. ARGOS is the fourth provided by French Space Agency (CNES). Unfortunately, the SSTM developed a technical problem in scan mechanism and therefore, not in operation at present. Payloads on EOS-06(Oceansat-3) are : • Ku-band Scatterometer (SCAT-3) • 13-band Ocean Colour Monitor (OCM-3) • 2-band Sea Surface Temperature Monitor (SSTM) • ARGOS by CNES French Space Agency Applications planned using EOS-06(Oceansat-3) datasets are as follows : Marine Resource Management Carbon & Nitrogen Cycling in Ocean Phytoplankton biodiversity Zooplankton & secondary pro Algal bloom detection and monitoring Climate change studies Phytoplankton physiology Atmosphere-Ocean processes and biological productivity Sediment dynamics & fluvial fluxes in coastal ocean Submarine applications Biogeochemical modelling Air quality dynamics from Oceansat -3 Coral reef ecosystem studies Land surface NDVI/LST Cryospheric Science Assimilation of ocean surface winds in NWP models Monsoon onset Cyclogenesis, track prediction, intensification Studies of ocean surface waves Modeling surface currents Assimilation of winds in coupled ocean circulations models, Winds and its effect on oceanic mixed layer Air-sea interactions Large-scale soil moisture estimation Vegetation classifications and their growth assessment.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Objectives",
+        "url": "https://www.mosdac.gov.in/oceansat-3-objectives",
+        "content": "To ensure the data continuity of Ocean colour and wind vector data to sustain the operational applications. To improve the applications, some additional datasets such as Sea Surface Temperature and more number of bands in Optical region for florescence and in Infrared region for atmospheric corrections are accommodated. To develop / improve related algorithms and data products to serve in well- established application areas and to enhance the mission utility.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "SpaceCraft",
+        "url": "https://www.mosdac.gov.in/oceansat-3-spacecraft",
+        "content": "Launch date: 26 November 2022 Launch site: SHAR, Sriharikota Launch vehicle; PSLV – C54 Orbit: Polar Sun Synchronous Altitude: 740 km Inclination: Repetitivity: 2 days Payloads: OCM, SCAT , SSTM and ARGOS Local time of Eq. crossing: 12 noon Mass at lift off:",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Payloads",
+        "url": "https://www.mosdac.gov.in/oceansat-3-payloads",
+        "content": "The scientific payload contains three instruments. • Ku-band Scatterometer (SCAT-3) • 13-band Ocean Colour Monitor (OCM-3) • 2-band Sea Surface Temperature Monitor (SSTM) • ARGOS by CNES French Space Agency Ocean Colour Monitor (OCM-3) : OCM-3 is a 13-band multi-spectral camera operating in the Visible and Near IR spectral range. It has 13 narrow ( 10-20 nm) spectral bands. T his camera provides an instantaneous geometric field of view of 368 meter and a swath of ~ 15000 km. OCM can be tilted up to + 20 degree along track. OCM-3 is planned to be operated in two modes: 1. Local Area Coverage (LAC) mode at 366 m resolution 2. Global Area Coverage (GAC) mode at 1.1 km resolution Scatterometer (SCAT-3) : SCAT-3 is an active microwave device designed and developed at ISRO/SAC, Ahmedabad. It is used to determine ocean surface level wind vectors through estimation of radar backscatter. Following are the sensor characteristics: • Ku-band, HH/VV (Swath 1400km), VV (1400-1800km) • High-resolution mode for ocean surface wind vectors at 12.5 km for the first time in addition to 25 km. • Experimental mode of high resolution wind @5km • Accuracy (RMSE): Speed ~ 1.5 m/s, Direction: ~15 deg. • Noise Equivalent s 0 improved by ~5dB to -39.5dB (-35dB) for H-beam, and -35dB (-31dB) for V-beam Sea Surface Temperature Monitoring (SSTM) : 2-band Sea Surface Temperature Monitor (SSTM) is a new instrument on-board Oceansat-3.",
+        "document_urls": [],
+        "scraped_documents": []
+      }
+    ],
+    "document_urls": [],
+    "scraped_documents": []
+  },
+  {
+    "mission_name": "MeghaTropiques",
+    "url": "https://www.mosdac.gov.in/megha-tropiques",
+    "main_page_content": "Megha-Tropiques is an Indo-French Joint Satellite Mission for studying the water cycle and energy exchanges in the tropics. The main objective of this mission is to understand the life cycle of convective systems that influence the tropical weather and climate and their role in associated energy and moisture budget of the atmosphere in tropical regions. Megha-Tropiques provides scientific data on the contribution of the water cycle to the tropical atmosphere, with information on condensed water in clouds, water vapour in the atmosphere, precipitation, and evaporation. With its circular orbit inclined 20 deg to the equator, the Megha-Tropiques is a unique satellite for climate research that should also aid scientists seeking to refine prediction models. The Megha-Tropiques has day, night and all-weather viewing capabilities; it passes over India almost a dozen times every day, giving scientists an almost real- time assessment of the evolution of clouds. हिन्दी",
+    "sub_pages": [
+      {
+        "title": "Introduction",
+        "url": "https://www.mosdac.gov.in/megha-tropiques-introduction",
+        "content": "The tropical belt receives more energy from Sun than it radiates back into space. The excess energy is transported to temperate regions by the motion of atmosphere and oceans. Any variation in the energy budget of the tropics will therefore effect the whole planet. The energy exchanges are strongly linked to the water cycle and particularly to the tropical connective systems: huge amount of latent heat are released in the tropical rains, while high humidity and thick clouds strongly affect the radiation budget. Many interactions between radiation, water vapour, clouds, precipitation and atmospheric motion determine the life cycle of convective cloud systems, and the occurrence of extreme events like tropical cyclones, monsoons, flood and droughts. Due to dynamic nature of above parameters, the frequency of observation from low orbiting sun-synchronous orbits is inadequate. Only geo-stationary satellites allow continuous monitoring of the Tropics, but their Vis-IR sensors give limited information on the cloud surface properties or horizontal distribution of water vapour. Low orbiting (~800 km) satellites with low inclinations provide high repetitivity. An inclination at 20 degrees provides 6 observations of each point on the Inter-Tropical Convergence Zone (ITCZ). The most energetic tropical systems, such as the cloud clusters of ITCZ, the Monsoon systems and the Tropical cyclones, extend over hundreds of kilometers. Hence, a ground resolution of about 10 km is adequate for these observations. In order to meet most of the above requirements, Megha Tropiques has been envisaged which is low earth orbit (LEO) mission. Megha in Sanskrit is ‘cloud’ and Tropiques in French is ‘tropics’. Megha-tropiques Mission is an ISRO-CNES (Indo-French) collaborative programme intended for studying the water cycle and energy exchanges in the tropics using a satellite platform. Megha-Tropiques is a one-tonne satellite which will be operated as part of a joint programme between the Indian Space Research Organisation (ISRO) and France′s Centre National d′Etudes Spaciales (CNES). The spacecraft was constructed by ISRO, based around the IRS bus developed for earlier Indian satellites, and carries four instruments which will be used to study the Earth′s atmosphere. ISRO is responsible of the system and the satellite. ISRO provides the launcher, the paltform, part of the MADRAS instrument, the GPS receiver and the mission operation center, which will process all the products until level 1. ISRO also performs the integration and test of the MADRAS instrument, of the complete payload and of the satellite. CNES provides a support for the system activities, the hyperfrequency part of the MADRAS instrument (MARFEQ) developped under contract by ASTRIUM, and the SAPHIR and SCARAB instruments developped by CNES with a support of the LMD, LERMA and CETP laboratories. CNES also provides the data processing algorithms for the SAPHIR and SCARAB instruments and participates to the development of the MADRAS data processing algorithms. A data and instruments performances expertise center will be created in France. For the French part, the level 2 and upper data processing will be realised in the thematic center Icare. Megha Tropiques Ground Segment The ground segment is divided into: 1. A satellite operation ground segment providedby India: an S-band telemetry and command station a satellite monitoring and control center 2. A science ground segment including Indian and French parts: an S-band mission station for payload telemetry located in India a mission operation center located in India a level-2 processing center in India such as MOSDAC a level-2 processing center named ICARE in France The Megha-Tropiques satellite is launched by an Indian PSLV launcher in 2011, on a 867 km orbit with an inclination of 20°.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Objectives",
+        "url": "https://www.mosdac.gov.in/megha-tropiques-objectives",
+        "content": "T he main objective of the Megha-Tropiques mission is to study the convective systems that influence the tropical weather and climate. The Megha-Tropiques mission goals are as follows: To provide, simultaneous measurements of several elements of the atmospheric water cycle (water vapour, clouds, condensed water in clouds, precipitation and evaporation), To measure the corresponding radiative budget at the top of the atmosphere, To ensure high temporal sampling in order to characterize the life cycle of the convective systems and to obtain significant statistics. The payloads have swaths of around 1700-200km. It is necessary to measure the above parameters for a minimum duration of 3 years in order to observe the inter-annual variability and getting an opportunity to observe El Nino-type events in the tropics. The satellite is launched into a non-sun synchronous orbit, unlike other IRS spacecraft. This Megha-Tropiques satellite carries four payloads namely, MADRAS-a microwave imager, SAPHIR-scanning radiometer instrument, SCARAB-scanner for radiative budget and GPS occultation receiver for atmospheric studies. The major orbit parameters are: Altitude: 867 km, circular Inclination: 20° Period: 102.16 minutes Repetitivity: 97 orbits in 7 days No. of Orbits Per day: 14 (approx.)",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "SpaceCraft",
+        "url": "https://www.mosdac.gov.in/megha-tropiques-spacecraft",
+        "content": "T he Megha-Tropiques system is composed of a mini-satellite developed jointly by France and India, which includes: a platform derived from the Indian IRS platform a set of four payloads MADRAS, developed jointly by CNES and ISRO SAPHIR, provided by CNES SCARAB, provided by CNES a radio-occulation receiver GPS, provided by ISRO MADRAS is a conical scanning microwave imager: the incidence has to be constant to take advantage of the polarization information. The spot size is always the same but the scan track follows a circle arc. SAPHIR and SCARAB are cross track scanning radiometers: the scan track is perpendicular to the satellite track and the spots enlarge with the scan angle. Megha-Tropiques Spacecraft consists of two major modules: a cuboid spacecraft bus derived from the IRS heritage; and the Payload Instrument Module (PIM), housing the payloads and associated elements. The spacecraft deployment mechanism consists of solar array deployment after separation from the launcher; a MADRAS hold-down release mechanism; and the MADRAS scan mechanism. Thermal control system with Optical Solar Reflectors and the Multi-Layer Insulation (MLI) blankets. A centralised Bus Management Unit (BMU) supports all the functions of the Attitude Orientation Control System (AOCS), sensor processing, TT&C handling, thermal management, onboard data storage logistics, and the Ampere Hour Meter processing.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Payloads",
+        "url": "https://www.mosdac.gov.in/megha-tropiques-payloads",
+        "content": "M egha-Tropiques carries the following four payloads: Microwave Analysis and Detection of Rain and Atmospheric Structures (MADRAS), an Imaging Radiometer developed jointly by CNES and ISRO Sounder for Probing Vertical Profiles of Humidity (SAPHIR), from CNES Scanner for Radiation Budget (ScaRaB), from CNES Radio Occultation Sensor for Vertical Profiling of Temperature and Humidity (ROSA), procured from Italy MADRAS (Microwave Analysis and Detection of Rain and Atmospheric Structures) M ADRAS system is a five channel, self calibrating, microwave radiometer system. The radiometer is designed to estimate atmospheric water parameters and wind speed in the equatorial belt. The choice of the channels has been driven by their potential contribution to the measurement of the parameters defined above. Geophysical Parameters Rainfall Cloud Ice Content Wind Speed Total Precipitable Water Cloud Liquid Water Channel No. Frequency Pol NEΔT Spatial Resolution M1 18.7 GHz H+V 0.5 K 40km M2 23.8 GHz V 0.5 K 40km M3 36.5 GHz H+V 0.5 K 40km M4 89 GHz H+V 1.0 K 10km M5 157 GHz H+V 1.0 K 6km SAPHIR microwave humidity sounder and radiometer T he mission specifications call for determination of humidity with an accuracy of 10 to 20 percent in 5 to 7 layers of the troposphere, over 10 km pixels. For realizing that performance, it is necessary to choose channels for which the atmospheric contribution to the radiance comes from different levels of the troposphere. This can be obtained by sampling an absorption line of water vapour by channels more or less close to the centre of the line. A candidate line, already chosen for other instruments, is the line at 183.3 GHz. It is possible to get contribution functions peaking from heights of 2 km.up to 10 to 12 km in tropical redundant to use more than 5 channels. A sixth complimentary channel in a window regions has to be used to correct for the surface effects in the lowest channels; the 150 channel of MADRAS can be used for that. This is the principle of SAPHIR instrument, which has been studied in the frame of micro satellites. Geophysical Parameters Humidity Profile Channel No. Centre Frequencies(GHz) Max. Passband (MHz) ΔT(K)Sensitivity at 300 K Absolute Calibration (K) Over 180 - 300K Pol. S1 183.31 ± 0.2 200 <2 (TBC) ± 1 H S2 183.31 ± 1.1 350 <2 (TBC) ± 1 H S3 183.31 ± 2.8 500 <2 (TBC) ± 1 H S4 183.31 ± 4.2 700 <2 (TBC) ± 1 H S5 183.31 ± 6.8 1200 <2 (TBC) ± 1 H S6 183.31 ± 11.0 2000 <2 (TBC) ± 1 H ScaRaB- Broadband radiation measurement instrument S CARAB is a four channel instrument mainly measuring in Visible (Sc1), InfraRed (Sc4) along with Solar Radiation (Sc2) and Total Radiation (Sc3). The long-wave irradiance is deduced from the difference between Sc3 and Sc2 measurements. Channels in Visible and IR window, Sc1 and Sc4 are used for scene identification (surface, clouds, partially covered) and for assuring compatibility and comparisons with the images from operational satellites. Geophysical Parameters Radiation Fluxes Channel Wavelength Signal Dynamics Noise (Crest) Sc1-Visible 0.5 to 0.7 µm 120 W.m 2 .sr. -1 < 1 W.m 2 .sr. -1 Sc2-Solar 0.2 to 4.0 µm 425 W.m 2 .sr. -1 < 0.5 W.m 2 .sr. -1 Sc3-Total 0.2 to 100 µm 500 W.m 2 .sr. -1 < 0.5 W.m 2 .sr. -1 Sc4-IR Window 10.5 to 12.5 µm 30 W.m 2 .sr. -1 < 0.5 W.m 2 .sr. -1 ROSA Radio Occultation Sensor GPS Radio Occultation sensor enables measurement of water vapour and temperature profiles in the tropics. GPS ROS payload is there to supplement / complement the mission for the atmospheric studies. A GPS ROS payload, ROSA (GPS-ROS) provided by the Italian Space Agency (ASI), is configured as the fourth payload. Parameter Specification Frequency L1 1.56 to 1.59 GHz; L2 1.212 to 1.242 GHz GPS code used C/A and P Code GPS code used <300 km Hor Res 0.3 km (Low Troposphere); 1-3 km (High Troposphere) Vert Res <1 K Temperature; 10% or 0.2g/Kg Humidity",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Data Products",
+        "url": "https://www.mosdac.gov.in/megha-tropiques-data-products",
+        "content": "The MEGHA-TROPIQUES satellite is dedicated to the study of the atmospheric water cycle and energy budget in the tropical atmosphere. Its orbit, slightly inclined relative to the equator (20°), allows it to obtain measurements with an excellent revisit rate. The satellite carries four instruments: The MADRAS microwave radiometer, the mission's main instrument, designed to measure precipitation and cloud characteristics, The SAPHIR microwave radiometer sounder, for calculating the vertical profiles of water vapour in the atmosphere, The SCARAB broadband optical radiometer, for measuring radiation fluxes at the top of the atmosphere, The GPS radio-occultation receiver, for determining atmospheric temperature and humidity. Megha-Tropiques Level1 Product definition Three types of L1 products will be disseminated to science users: L1A, L1B, L1C. The products are defined in the following sections. Level-1A: It is the brightness temperature geo-tagged product for all channels in scan mode in HDF-5 Format. Level-1B: It is the brightness temperature product in grid mode in HDF-5 Format; Orbit wise products will also be generated. Level-1C: It is the brightness temperature geo-tagged product in co-located in scan mode in HDF-5 Format. Megha-Tropiques Level2 Product definition Two types of L2 products will be disseminated to science users: L2A, L2B. The products are defined in the following sections. In the frame of the MEGHA-TROPIQUES, some L2 products have to be disseminated in Near Real Time. They will be mentioned as NRT products and the other products as standard products.. All products L2A, L2B will be available as standard and NRT products STANDARD PRODUCT Standard products are defined orbit wise Data latency of standard products is six hours (TBC) from data acquisition in nominal situation at MOSDAC. NRT PRODUCTS NRT products are dumping wise products. The amount of data of one NRT file will depend on the quantity of data transmitted to the ground station over one pass. Generally, the size of a NRT product will on average be equal to one orbit’s data. Data latency of the NRT products is expected to be less than 3.30 hours from sensing to users",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Documents",
+        "url": "https://www.mosdac.gov.in/megha-tropiques-references",
+        "content": "MADRAS L1-Product definition (Size:2.2 MB Format:PDF Tool:PDFViewer) SAPHIR L1-Product definition (Size:1.6 MB Format:PDF Tool:PDFViewer) SCARAB L1-Product definition (Size:1.8 MB Format:PDF Tool:PDFViewer) ATBD-for-saphir-rain-ver2 (Size:1.3 MB Format:PDF Tool:PDFViewer) MT_ATBD_ver3 (Size:1.7 MB Format:PDF Tool:PDFViewer)",
+        "document_urls": [
+          "https://www.mosdac.gov.in/docs/MADRAS_L1.pdf",
+          "https://www.mosdac.gov.in/docs/SAPHIR_L1.pdf",
+          "https://www.mosdac.gov.in/docs/SCARAB_L1.pdf",
+          "https://www.mosdac.gov.in/docs/ATBD-for-saphir-rain-ver2.pdf",
+          "https://www.mosdac.gov.in/docs/MT_ATBD_ver3_Final2.pdf",
+          "https://www.mosdac.gov.in/docs/STQC.pdf"
+        ],
+        "scraped_documents": []
+      }
+    ],
+    "document_urls": [],
+    "scraped_documents": []
+  },
+  {
+    "mission_name": "SARAL-AltiKa",
+    "url": "https://www.mosdac.gov.in/saral",
+    "main_page_content": "",
+    "sub_pages": [
+      {
+        "title": "Documents",
+        "url": "https://www.mosdac.gov.in/saral-references",
+        "content": "SARAL Products Handbook (Size:5.6 MB Format:PDF Tool:PDFViewer) SARAL User Products (Size:957 KB Format:PDF Tool:PDFViewer)",
+        "document_urls": [
+          "https://www.mosdac.gov.in/docs/SALP-MU-M-OP-15984-CN_0102[1]_handbook.pdf",
+          "https://www.mosdac.gov.in/docs/SALP-ST-M-EA-15839-CN_0202[1]_vol20_products.pdf",
+          "https://www.mosdac.gov.in/docs/STQC.pdf"
+        ],
+        "scraped_documents": []
+      }
+    ],
+    "document_urls": [],
+    "scraped_documents": []
+  },
+  {
+    "mission_name": "SCATSAT-1",
+    "url": "https://www.mosdac.gov.in/scatsat-1",
+    "main_page_content": "Scatsat-1 was launched by PSLV-C35 from Satish Dhawan Space Centre, Sriharikota on September 26, 2016. It carries the Ku-band Pencil Beam scatterometer (SCAT) payload developed by SAC-ISRO. हिन्दी",
+    "sub_pages": [
+      {
+        "title": "Introduction",
+        "url": "https://www.mosdac.gov.in/scatsat-1-introduction",
+        "content": "I ndian Space Research Organisation launched SCATSAT-1 for ocean and weather related studies and seven co-passenger satellites into polar Sun Synchronous Orbit (SSO) on September 26, 2016. The Polar Satellite Launch Vehicle, in its 37th flight, (PSLV-C35) launched the satellites at 9:12 hours on September 26, 2016 from Satish Dhawan Space Centre in Sriharikota. The 377 kg SCATSAT-1 satellite have satellites from Algeria, Canada and USA, as well as two satellites from Indian Universities as its co-passengers. SCATSAT-1 is placed into a 720 km Polar Sun Synchronous Orbit, whereas the two Universities' satellites and the five foreign satellites are placed into a 670 km polar orbit. This PSLV mission is unique in itself as it is for the first time that its payloads are placed into two different orbits. PSLV-C35 launched from the First Launch Pad (FLP) of Satish Dhawan Space Centre and is the 15th flight of PSLV in 'XL' configuration (with the use of solid strap-on motors).",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Objectives",
+        "url": "https://www.mosdac.gov.in/scatsat-1-objectives",
+        "content": "T he Indian satellite SCATSAT-1 is a miniature satellite dedicated to ocean wind observation. It is preceded by Oceansat-2 which was also dedicated for the same objective. Major objectives of SCATSAT-1 is weather forecasting, cyclone prediction along with ocean state monitoring and prediction. It is currently catering towards weather and climate sector, naval and shipping operations, renewable energy sector along with tracking services to India as well as to the world.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "SpaceCraft",
+        "url": "https://www.mosdac.gov.in/scatsat-1-spacecraft",
+        "content": "S CATSAT-1 is envisaged to provide continuity of operational services of OSCAT (IRS-P4) with enhanced application potential. Launch date: September 26, 2016 Launch site: SDSC (Satish Dhawan Space Centre), Sriharikota. Launch vehicle; PSLV - C35 Orbit: Sun Synchronous, dawn-dusk orbit Altitude: 720 km Inclination: 97.4° Local Time on Ascending Node 6:00 hours Repetitivity: 2 days Payloads: Scatterometer Mass at lift off: 310 Kg Power: 15 Sq.m Solar panels generating 1360W, Two 24 Ah Ni-Cd Battries Mission Life: 5 years",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Payloads",
+        "url": "https://www.mosdac.gov.in/scatsat-1-payloads",
+        "content": "T he scientific payload contains the Scanning Scatterometer (SCAT) instrument. Scanning Scatterometer (SCAT) SCAT is an active microwave device designed and developed at SAC/ISRO, Ahmedabad. It is used to determine ocean surface level wind vectors through estimation of radar backscatter. The scatterometer system has a 1-m parabolic dish antenna and a dual feed assembly to generate two pencil beams and is scanned at a rate of 20.5 rpm to cover the entire swath. The Ku-band pencil beam scatterometer is an active microwave radar operating at 13.515 GHz providing a ground resolution cell of size 25 x 25 km. The parabolic dish antenna of 1 meter diameter is offset mounted with a cant angle of about 46 degree with respect to earth viewing axis. This antenna is continuously rotated at 20.5 rpm using a scan mechanism with the scan axis along the +ve Yaw axis. By using two offset feeds at the focal plane of the antenna, two beams are generated which will conically scan the ground surface. The back scattered power in each beam from the ocean surface is measured to derive wind vector. The inner beam makes an incidence angle of 48.90 0 and the outer beam makes an incidence angle of 57.60 0 on the ground. It covers a continuous swath of 1400 km for inner beam and 1840 km for outer beam respectively. The inner and outer beams are configured in horizontal and vertical polarization respectively for both transmit and receive modes. The aim is to provide global ocean coverage and wind vector retrieval with a revisit time of 2 days. Parameter Inner beam Outer beam Orbital altitude 720 km Instrument frequency 13.515 GHz (Ku-band) Wind speed range 3-30 m/s, accuracy of 1.8 m/s (rms) or 10% Wind direction 0 0 to 360 0 , accuracy of 20 0 rms Wind vector cell size (resolution) 25 km x 25 km grid Polarization HH VV Swath width 1400 km 1840 km Scanning circle radius 700 km 920 km Scanning rate 20.5 rpm",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Data Products",
+        "url": "https://www.mosdac.gov.in/scatsat-1-data-products",
+        "content": "Content for this page could not be found.",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "Documents",
+        "url": "https://www.mosdac.gov.in/scatsat-1-references",
+        "content": "SCATSAT Level4 Products (Size:968 KB Format:PDF Tool:PDFViewer)",
+        "document_urls": [
+          "https://www.mosdac.gov.in/docs/scatsat_level4_dataproducts.pdf",
+          "https://www.mosdac.gov.in/docs/STQC.pdf"
+        ],
+        "scraped_documents": []
+      }
+    ],
+    "document_urls": [],
+    "scraped_documents": []
+  },
+  {
+    "mission_name": "MOSDAC_PORTAL",
+    "url": "https://www.mosdac.gov.in/help",
+    "main_page_content": "Accessibility Know about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors. We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can access this Portal using assistive technologies, such as screen readers and magnifiers. We also aim to be standards compliant and follow principles of usability and universal design, which should help all visitors of this Portal. This Portal is designed using XHTML 1.0 Transitional and meets priority 1 (level A) of the Web Content Accessibility Guidelines (WCAG) 2.0 laid down by the World Wide Web Consortium (W3C). Part of the information in the Portal is also made available through links to external Web sites. External Web sites are maintained by the respective departments who are responsible for making these sites accessible. Viewing different file types Document Type Download Portable Document Format (PDF) files Adobe Acrobat Reader MP4 files Windows Media Player / VLC Media Player Text Size Icons Following different options are provided in the form of icons which are available on the top of each page: A+ Increase text size: Allows to increase the text size up to Two levels A- Decrease text size: Allows to decrease the text size up to Two levels A Normal text size: Allows to set default text size Changing the Color Scheme Changing the color scheme refers to applying a suitable background and text color that ensures clear readability. There are two options provided to change the color scheme. These are: A Default contrast scheme A Yellow text on Black background Screen Reader Access Provides information regarding access to different Screen Readers. Space Applications Centre fully complies with Guidelines for Indian Government Websites (link is external). Our visitors with visual impairments can access the Portal using Assistive Technologies, such as screen readers. The information of the Portal is accessible with different screen readers, such as JAWS, NVDA, SAFA, Supernova and Window-Eyes. Following table lists the information about different screen readers: Screen Reader Website Free / Commercial Non Visual Desktop Access (NVDA) http://www.nvda-project.org Free Hal http://www.yourdolphin.co.uk/productdetail.asp?id=5 Commercial JAWS http://www.freedomscientific.com/jaws-hq.asp Commercial Supernova http://www.yourdolphin.co.uk/productdetail.asp?id=1 Commercial",
+    "sub_pages": [
+      {
+        "title": "FAQ",
+        "url": "https://www.mosdac.gov.in/help",
+        "content": "Q: AccessibilityKnow about the accessibility statement, accessibility features, and accessibility options. We are committed to ensure that the SAC website is accessible to all users irrespective of device in use, technology or ability. It has been built, with an aim,to provide maximum accessibility and usability to its visitors.We have put in our best efforts to ensure that all information on this Portal is accessible to people with disabilities. For example, a user with visual disability can access this Portal using assistive technologies, such as screen readers and magnifiers.We also aim to be standards compliant and follow principles of usability and universal design, which should help all visitors of this Portal.This Portal is designed using XHTML 1.0 Transitional and meets priority 1 (level A) of the Web Content Accessibility Guidelines (WCAG) 2.0 laid down by the World Wide Web Consortium (W3C). Part of the information in the Portal is also made available through links to external Web sites. External Web sites are maintained by the respective departments who are responsible for making these sites accessible.\nA: Viewing different file types\n\nQ: Viewing different file types\nA: Document Type Download Portable Document Format (PDF) files Adobe Acrobat Reader MP4 files Windows Media Player / VLC Media Player",
+        "document_urls": [],
+        "scraped_documents": []
+      }
+    ],
+    "document_urls": [],
+    "scraped_documents": []
+  },
+  {
+    "mission_name": "MOSDAC_GALLERY",
+    "url": "https://www.mosdac.gov.in/gallery",
+    "main_page_content": "Latest 8 Frames 16 Frames 24 Frames 32 Frames 48 Frames 60 Frames 120 Frames",
+    "sub_pages": [],
+    "document_urls": [],
+    "scraped_documents": []
+  },
+  {
+    "mission_name": "MOSDAC_GALLERY",
+    "url": "https://www.mosdac.gov.in/cyclone",
+    "main_page_content": "Sat. Based Cyclone Obser. and Realtime Pred. over IO. Read More Tags: Forecast",
+    "sub_pages": [
+      {
+        "title": "Gallery Events",
+        "url": "https://www.mosdac.gov.in/cyclone",
+        "content": "Event: Tags:\nSat. Based Cyclone Obser. and Realtime Pred. over IO.",
+        "document_urls": [],
+        "scraped_documents": []
+      }
+    ],
+    "document_urls": [],
+    "scraped_documents": []
+  },
+  {
+    "mission_name": "MOSDAC_TOOLS",
+    "url": "https://www.mosdac.gov.in/tools",
+    "main_page_content": "Description Platform Download URL IDV Plugin for INSAT-3D | 3DR Data Products IDV Plugin for INSAT-3D | 3DR Data Products Linux & Windows - 64 bit https://mosdac.gov.in/software/INSAT_IDV_PLUGIN.jar Format: JAR, Size: 3.3 MB Atmospheric Correction Model for Resourcesat-2 AWiFS data (SACRS2) Atmospheric Correction Model for Resourcesat-2 AWiFS data (SACRS2) Windows 32 bit https://mosdac.gov.in/software/SACRS2_Package.rar Format: RAR, Size: 7.5 MB Megha Tropiques batch mode HDF5 to Binary/ASCII converter Megha Tropiques batch mode HDF5 to Binary/ASCII converter RHEL5 /CentOS5 32 bit https://mosdac.gov.in/software/mt-hdf-bin-linux.zip Format: ZIP, Size: 3.3 MB Megha Tropiques HDF Viewer Megha Tropiques HDF Viewer RHEL5 /CentOS5 32 bit https://mosdac.gov.in/software/hdftool-linux.zip Format: ZIP, Size: 9.9 MB Megha Tropiques batch mode HDF5 to Binary/ASCII converter Megha Tropiques batch mode HDF5 to Binary/ASCII converter Windows 32 bit https://mosdac.gov.in/software/mt-hdf-bin-txt.zip Format: ZIP, Size: 2.9 MB Megha Tropiques HDF Viewer Megha Tropiques HDF Viewer Windows 32 bit https://mosdac.gov.in/software/HdfTool.zip Format: ZIP, Size: 6.3 MB HDF5 TO ASCII converter HDF5 TO ASCII converter for Kalpana1-VHRR PR products RHEL4 /CentOS4 https://mosdac.gov.in/software/PR_hdf_ascii.tar Format: TAR, Size: 5.3 MB HDF5 to ASCII Converter HDF5 TO ASCII converter for Kalpana1-VHRR DP products RHEL4 /CentOS4 https://mosdac.gov.in/software/DP_hdf_ascii.tar Format: TAR, Size: 6.4 MB",
+    "sub_pages": [],
+    "document_urls": [],
+    "scraped_documents": []
+  },
+  {
+    "mission_name": "MOSDAC_TOOLS",
+    "url": "https://www.mosdac.gov.in/download",
+    "main_page_content": "Sign in to MOSDAC Single Sign ON MOSDAC SSO Username or email Password Forgot Password? मॉस्डैक, अंतरिक्ष उपयोग केंद्र, इसरो, भारत सरकार द्वारा निर्मित और संचालित Owned and maintained by MOSDAC, Space Applications Centre, Indian Space Research Organisation, Govt. of INDIA.",
+    "sub_pages": [],
+    "document_urls": [],
+    "scraped_documents": []
+  },
+  {
+    "mission_name": "MOSDAC_ATLAS",
+    "url": "https://www.mosdac.gov.in/atlas",
+    "main_page_content": "Display name size modified viewing_ocean_from_space.pdf 10.01 MB Mon, 2020-01-27 10:00 Spectrum_of_India_AVIRIS-NG.pdf 27.64 MB Thu, 2016-12-22 10:00 Glimspes_of_India_by_RISAT-1.pdf 88.53 MB Mon, 2015-08-31 10:00 Eyes_on_Waves_from_Space.pdf 6.24 MB Thu, 2018-05-03 10:00 Exploring_the_Antarctic.pdf 35.11 MB Wed, 2020-02-19 10:00 Images_of_Moon_From_Chandrayan-1.pdf 388.48 MB Thu, 2010-12-23 10:00 Chandrayan-1_Lunar_Science_Atlas.pdf 69.87 MB Thu, 2015-04-30 10:00 Coral_Reef_Atlas_of_Red_Sea_Gulf_of_Aden.pdf 72.11 MB Thu, 2018-05-03 10:00 Atlas_of_Sea_Ice_Trends.pdf 2.83 MB Thu, 2012-03-01 10:00 Mars-atlas.pdf 35.13 MB Mon, 2015-08-31 10:00 10 files - 735.95 MB",
+    "sub_pages": [
+      {
+        "title": "Display name",
+        "url": "https://www.mosdac.gov.in/atlas?sort=desc&order=Display%20name",
+        "content": "Display name size modified Mars-atlas.pdf 35.13 MB Mon, 2015-08-31 10:00 Atlas_of_Sea_Ice_Trends.pdf 2.83 MB Thu, 2012-03-01 10:00 Coral_Reef_Atlas_of_Red_Sea_Gulf_of_Aden.pdf 72.11 MB Thu, 2018-05-03 10:00 Chandrayan-1_Lunar_Science_Atlas.pdf 69.87 MB Thu, 2015-04-30 10:00 Images_of_Moon_From_Chandrayan-1.pdf 388.48 MB Thu, 2010-12-23 10:00 Exploring_the_Antarctic.pdf 35.11 MB Wed, 2020-02-19 10:00 Eyes_on_Waves_from_Space.pdf 6.24 MB Thu, 2018-05-03 10:00 Glimspes_of_India_by_RISAT-1.pdf 88.53 MB Mon, 2015-08-31 10:00 Spectrum_of_India_AVIRIS-NG.pdf 27.64 MB Thu, 2016-12-22 10:00 viewing_ocean_from_space.pdf 10.01 MB Mon, 2020-01-27 10:00 10 files - 735.95 MB",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "size",
+        "url": "https://www.mosdac.gov.in/atlas?sort=asc&order=size",
+        "content": "Display name size modified viewing_ocean_from_space.pdf 10.01 MB Mon, 2020-01-27 10:00 Spectrum_of_India_AVIRIS-NG.pdf 27.64 MB Thu, 2016-12-22 10:00 Glimspes_of_India_by_RISAT-1.pdf 88.53 MB Mon, 2015-08-31 10:00 Eyes_on_Waves_from_Space.pdf 6.24 MB Thu, 2018-05-03 10:00 Exploring_the_Antarctic.pdf 35.11 MB Wed, 2020-02-19 10:00 Images_of_Moon_From_Chandrayan-1.pdf 388.48 MB Thu, 2010-12-23 10:00 Chandrayan-1_Lunar_Science_Atlas.pdf 69.87 MB Thu, 2015-04-30 10:00 Coral_Reef_Atlas_of_Red_Sea_Gulf_of_Aden.pdf 72.11 MB Thu, 2018-05-03 10:00 Atlas_of_Sea_Ice_Trends.pdf 2.83 MB Thu, 2012-03-01 10:00 Mars-atlas.pdf 35.13 MB Mon, 2015-08-31 10:00 10 files - 735.95 MB",
+        "document_urls": [],
+        "scraped_documents": []
+      },
+      {
+        "title": "modified",
+        "url": "https://www.mosdac.gov.in/atlas?sort=asc&order=modified",
+        "content": "Display name size modified viewing_ocean_from_space.pdf 10.01 MB Mon, 2020-01-27 10:00 Spectrum_of_India_AVIRIS-NG.pdf 27.64 MB Thu, 2016-12-22 10:00 Glimspes_of_India_by_RISAT-1.pdf 88.53 MB Mon, 2015-08-31 10:00 Eyes_on_Waves_from_Space.pdf 6.24 MB Thu, 2018-05-03 10:00 Exploring_the_Antarctic.pdf 35.11 MB Wed, 2020-02-19 10:00 Images_of_Moon_From_Chandrayan-1.pdf 388.48 MB Thu, 2010-12-23 10:00 Chandrayan-1_Lunar_Science_Atlas.pdf 69.87 MB Thu, 2015-04-30 10:00 Coral_Reef_Atlas_of_Red_Sea_Gulf_of_Aden.pdf 72.11 MB Thu, 2018-05-03 10:00 Atlas_of_Sea_Ice_Trends.pdf 2.83 MB Thu, 2012-03-01 10:00 Mars-atlas.pdf 35.13 MB Mon, 2015-08-31 10:00 10 files - 735.95 MB",
+        "document_urls": [],
+        "scraped_documents": []
+      }
+    ],
+    "document_urls": [],
+    "scraped_documents": []
+  }
+]
